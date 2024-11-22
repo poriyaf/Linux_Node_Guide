@@ -1,6 +1,6 @@
 # Install Packages
 > Packages are like drivers of your linux system
->
+>  در اولین اقدام بعد از خرید سرور و برای نصب بدون مشکل نود باید اول این برنامه ها رو نصب کنید. 
 > You must have specific packages installed to be able to run specific commands
 
 ## Update server packages
